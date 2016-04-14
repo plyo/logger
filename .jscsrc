@@ -1,0 +1,9 @@
+{
+  "preset": "airbnb",
+  "maximumLineLength": 120,
+  "excludeFiles": [
+    "build/**",
+    "coverage/**",
+    "node_modules/**"
+  ]
+}
